@@ -365,6 +365,15 @@ section .title::after{
 .skills-content .right .python::before{
     width: 80%;
 }
+.skills-content .right .alteryx::before{
+    width: 70%;
+}
+.skills-content .right .excel::before{
+    width: 70%;
+}
+.skills-content .right .powerbi::before{
+    width: 40%;
+}
 .skills-content .right .nodejs::before{
     width: 70%;
 }
