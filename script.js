@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Data Analyst", "Web Designer", "UI/UX Designer" ],
+        strings: ["Business Analyst", "Data Analyst", "Web Designer", "UI/UX Designer" ],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Data Analyst", "Web Designer", "UI/UX Designer" ],
+        strings: ["Business Analyst", "Data Analyst", "Web Designer", "UI/UX Designer" ],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
